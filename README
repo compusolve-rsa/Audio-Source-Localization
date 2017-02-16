@@ -1,0 +1,12 @@
+Codes in the folder:
+
+1. moveRoomba.py - a library of functions to move the roomba
+2. multiclass-svm-example.py  - an example using python's scikit-learn
+3. correlationCheck2.py - final code to move the roomba and listen
+4. getFromRemote.sh - a code to update changes in the code. The same code is present on the raspberry Pi and must be run on the RPi to update changes made to codes on the host PC.
+5. fundamentalFreq.py - a code to find the fundamental frequency of a continuous frames of data.
+
+
+
+
+
