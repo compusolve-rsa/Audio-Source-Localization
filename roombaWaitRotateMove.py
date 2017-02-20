@@ -8,9 +8,6 @@ import time
 # separate file with functions written to move the Roomba
 from moveRoomba import roomba_start, roomba_rotate, roomba_move, roomba_stop
 
-# separate file with functions related to filtering and spectrogram generation
-from spectralFeatures_functions import elliptic_filterit, fftWindowFilter,stft,spec_plot
-
 import matplotlib.pyplot as plt
 
 # open the serial port
